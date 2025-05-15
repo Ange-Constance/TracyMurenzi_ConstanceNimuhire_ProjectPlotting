@@ -1,0 +1,2 @@
+### Project Plotting – Matplotlib, Seaborn, Histograms, and Boxplots
+- This project focuses on analyzing transportation data, particularly related to vehicles and their fuel efficiency. The aim is to explore key metrics such as CO₂ emissions, fuel usage patterns, and vehicle manufacturers. These insights support discussions around urban and rural planning, infrastructure, and transportation's role in global and regional stocktake initiatives.
